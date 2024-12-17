@@ -1,0 +1,6 @@
+﻿03:14:43:216	Build started at 3:14 AM...
+03:14:43:901	1>------ Build started: Project: BulkyBook, Configuration: Debug Any CPU ------
+03:14:45:532	1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+03:14:48:820	1>BulkyBook -> D:\.net\BulkyBook\bin\Debug\net6.0\BulkyBook.dll
+03:14:49:081	========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+03:14:49:081	========== Build completed at 3:14 AM and took 06.536 seconds ==========
